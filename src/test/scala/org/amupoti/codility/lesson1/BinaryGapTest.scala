@@ -5,9 +5,6 @@ import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
 
 
-/**
-  * Created by marrufat on 23/11/16.
-  */
 @RunWith(classOf[JUnitRunner])
 class BinaryGapTest extends FunSuite {
 
