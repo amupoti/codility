@@ -1,5 +1,6 @@
 package org.amupoti.hackerrkank.functional
 
+import org.amupoti.hackerrkank.adhoc.JumpingBunnies
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner

@@ -1,4 +1,4 @@
-package org.amupoti.hackerrkank.functional
+package org.amupoti.hackerrkank.adhoc
 
 /**
   * https://www.hackerrank.com/challenges/remove-duplicates

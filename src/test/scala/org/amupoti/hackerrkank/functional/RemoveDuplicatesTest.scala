@@ -1,5 +1,6 @@
 package org.amupoti.hackerrkank.functional
 
+import org.amupoti.hackerrkank.adhoc.RemoveDuplicates
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
