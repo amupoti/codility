@@ -16,9 +16,6 @@ object RotateString {
     for (c_i <- 0 to n - 1) {
       c(c_i) = sc.nextInt();
     }
-    c.groupBy(_)
-
-
 
     for (ln <- io.Source.stdin.getLines) {
       if (!ln.matches("""\d+"""))
