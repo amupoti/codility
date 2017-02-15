@@ -1,4 +1,4 @@
-package org.amupoti.hackerrkank.codingInterview
+package org.amupoti.hackerrkank.codinginterview
 
 import org.amupoti.hackerrkank.codinginterview.ArraysLeftRotation
 import org.junit.runner.RunWith
