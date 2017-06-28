@@ -1,4 +1,4 @@
-package org.amupoti.hackerrkank.statistics
+package org.amupoti.hackerrank.statistics
 
 import org.junit.runner.RunWith
 import org.scalactic.TolerantNumerics
